@@ -7,4 +7,5 @@ Updated to only test up to the nearest number of the sorted list - no need to te
 
 Notes:
 
+* The current code favors the higher number if the target number is equally between two numbers.
 * This example uses a CHOP Execute because it was the easiest for me to test it that way, but should work in other script-based DATs
